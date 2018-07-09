@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Let the merge conflicts begin!"
 ---
 
 ![electrocat](https://octodex.github.com/images/electrocat.png)
 {: .center}
 
-Caption here: also fixed my octcat
+Caption here: I'm just an octcat - fixing the plugs
