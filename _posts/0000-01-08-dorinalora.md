@@ -3,7 +3,8 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
+![Mardigrastocat](https://octodex.github.com/images/Kimonotocat.png)
 {: .center}
 
-Caption here
+
+Elegant but lethal
