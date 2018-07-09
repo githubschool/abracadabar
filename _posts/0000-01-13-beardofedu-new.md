@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "balloons!"
+title: "10 years!"
 ---
 
-![poptocat2](https://octodex.github.com/images/poptocat_v2.png)
+![10 years](https://octodex.github.com/images/tentocats.jpg)
 {: .center}
 
-"Distracting the little ones with a balloon, since I don't have enough ice cream for everyone :/"
+"Happy 10 year anniversary!"
