@@ -1,4 +1,4 @@
-# GitHub for Developers
+# GitHub for Everyone
 
 - Class Date: july 9 - 10, 2018
 - Facilitator: @beardofedu
