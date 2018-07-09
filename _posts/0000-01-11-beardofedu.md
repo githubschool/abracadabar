@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-![electrocat](https://octodex.github.com/electrocat.png)
+![electrocat](https://octodex.github.com/images/electrocat.png)
 {: .center}
 
-Caption here
+I get all charged up when I merge a pull request! :battery:
