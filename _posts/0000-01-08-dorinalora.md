@@ -1,9 +1,9 @@
 ---
-layout: slide
-title: "Welcome to our slide deck!"
+"Kimono Cat!"
 ---
 
-![Mardigrastocat](https://octodex.github.com/images/Mardigrastocat.png)
-{: .center}
+![Mardigrastocat](https://octodex.github.com/images/kimonotocat.png)
 
-Caption here
+
+
+Elegant but lethal
