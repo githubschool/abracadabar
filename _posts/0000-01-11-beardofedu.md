@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Something something, gold"
 ---
 
-![electrocat](https://octodex.github.com/images/electrocat.png)
+![electrocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
 
-I get all charged up when I merge a pull request! :battery:
+My pull requests are solid gold!
