@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Something something, gold"
 ---
 
-![electrocat](https://octodex.github.com/electrocat.png)
+![electrocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
 
-Caption here
+My pull requests are solid gold!
